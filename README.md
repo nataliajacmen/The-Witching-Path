@@ -18,7 +18,7 @@ The Witching Path is an arcade-inspired game created on Microsoft MakeCode Arcad
 
 
 ## Setup
-Play the game by putting the following link into your browser. https://arcade.makecode.com/S43034-57453-47315-52110 
+Play the game by putting the following link into your browser: https://arcade.makecode.com/S43034-57453-47315-52110 
 
 
 ## Project Status
